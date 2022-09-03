@@ -18,6 +18,7 @@
     margin: 5px 0;
 }
 
+
 .menu-icon {
     width: 25px;
     cursor: pointer;
@@ -77,8 +78,7 @@ nav ul li a:hover {
     position:relative;
     top: -200px;
     padding: 50px;
-    max-height: 5000px;
-    
+    max-height: 6000px;   
 }
 #container1{
     margin: 5%;
@@ -89,6 +89,14 @@ nav ul li a:hover {
     justify-content: space-between;
     margin: 5%;
 }
+#sitemap{
+    align-content: center;
+}
+#image-container1{
+    padding: 5%;
+    justify-content: space-between;
+}
+
 .text{
     margin: 5%;
 }
