@@ -72,6 +72,28 @@ nav ul li a:hover {
     display: flex;
     justify-content: center;
 } 
+#container{
+    margin: auto;
+    background-color:white;
+    max-width: 85%;
+    position:relative;
+    top: -200px;
+    padding: 20px;
+    max-height: 5000px;
+    
+}
+#headers{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 8%;
+}
+#discription{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 8%;
+}
 
 
 footer {
